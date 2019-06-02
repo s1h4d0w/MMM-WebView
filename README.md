@@ -19,13 +19,11 @@ Configure the module in your `config.js` file.
 
 To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
-modules: [
-	{
-		module: 'MMM-WebView',
-		config: {
-			url: "https://www.mywebsite.com
-		}
+{
+	module: 'MMM-WebView',
+	config: {
+		url: "https://www.mywebsite.com
 	}
-]
+},
 ````
 
