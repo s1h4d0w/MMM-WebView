@@ -10,7 +10,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone https://github.com/lepeltv/MMM-WebView.git
+git clone https://github.com/s1h4d0w/MMM-WebView.git
 ````
 
 Configure the module in your `config.js` file.
