@@ -1,0 +1,12 @@
+.wv-wrapper {
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.wv-wrapper iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+}
