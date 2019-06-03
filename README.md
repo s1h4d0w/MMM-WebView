@@ -22,8 +22,8 @@ To use this module, add it to the modules array in the `config/config.js` file:
 {
 	module: 'MMM-WebView',
 	config: {
-		url: "https://www.mywebsite.com
+		url: "https://www.mywebsite.com",	// any webpage that allows embedding
+		opacity: "0.8" 				// opacity of the module, any value between 0.01 and 1
 	}
 },
 ````
-
