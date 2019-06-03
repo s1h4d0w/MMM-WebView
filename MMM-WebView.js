@@ -25,7 +25,7 @@ Module.register("MMM-WebView", {
       wrapper.classList.add("wv-wrapper");
       
       var iframe = document.createElement("iframe");
-      iframe.setAttribute("src", url);
+      iframe.setAttribute("src", this.config.url);
       
       wrapper.appendChild(iframe);
       
